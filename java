@@ -1,0 +1,14 @@
+/src
+  /main/java/com/travel/booking
+    /controller/HotelBookingController.java
+    /service/HotelBookingService.java
+    /repository/BookingRepository.java
+    /model/Booking.java
+    /dto/BookingRequest.java
+    /exception/BookingException.java
+  /test/java/com/travel/booking/...
+/resources
+  application.properties
+/docs
+  API_SPEC.md
+  DATABASE_SCHEMA.sql
